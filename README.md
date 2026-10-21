@@ -2,7 +2,7 @@
 
 **From literature to traceable reasoning.** Evidentia is a literature reasoning workspace for researchers who need more than storage and summaries. It connects **claims**, **evidence**, **conditions** and **source context**, so the path from reading to writing stays visible.
 
-**Live app:** https://cs3ai.github.io/Evidentia/ (install it from the browser address bar to use it as an app)
+**Live app:** https://evidentiaevidentia.netlify.app/ (install it from the browser address bar to use it as an app)
 
 ## What you can do (V0.1)
 
